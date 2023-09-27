@@ -45,6 +45,15 @@ git remote -v               - Shows the set of fetch and pull operations carried
 
 
 
+**Task for the Teams:**
+
+
+
+
+![Task](https://github.com/GitWorkshopWWCDSPracticeAccount/Git_Workshop/assets/128200371/6f2c39be-7430-4f1f-b047-23ba30227a8f)
+
+
+
 
 
 
