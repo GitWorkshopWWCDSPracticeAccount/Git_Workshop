@@ -51,9 +51,8 @@ git remote -v               - Shows the set of fetch and pull operations carried
 **Task for the Teams:**
 
 
-![Task](https://github.com/GitWorkshopWWCDSPracticeAccount/Git_Workshop/assets/128200371/6f2c39be-7430-4f1f-b047-23ba30227a8f)
 
-
+![Task](https://github.com/GitWorkshopWWCDSPracticeAccount/Git_Workshop/assets/128200371/012a21d4-9e51-44b4-88f7-9db1c57b140c)
 
 
 **Tast 1**
@@ -65,9 +64,8 @@ Assignee: Assign to a team member of your Squad
 Link to project
 Link to Development branch 'Test_Branch_for_Squads'
 
-![Create_Issue](https://github.com/GitWorkshopWWCDSPracticeAccount/Git_Workshop/assets/128200371/363ad921-260a-440b-ba71-13cceec9296b)
 
-
+![Create_Issue](https://github.com/GitWorkshopWWCDSPracticeAccount/Git_Workshop/assets/128200371/b32ff5ab-5306-4241-90bc-fc657946234c)
 
 
 
@@ -92,17 +90,21 @@ Squad 1:
 
    The output window looks as below:
 
-   ![Commit](https://github.com/GitWorkshopWWCDSPracticeAccount/Git_Workshop/assets/128200371/bb962add-9063-47f8-bba9-26de5d208caa)
+    
+![Commit](https://github.com/GitWorkshopWWCDSPracticeAccount/Git_Workshop/assets/128200371/35630732-d20a-487b-83e9-52837f96d711)
+
+  ![Commit_task2](https://github.com/GitWorkshopWWCDSPracticeAccount/Git_Workshop/assets/128200371/ac8fd8fd-5744-4c51-a049-1b8bad828ac9)
 
     
-    ![Commit_task2](https://github.com/GitWorkshopWWCDSPracticeAccount/Git_Workshop/assets/128200371/7fc65de0-2991-4760-ac2a-49100fcc1e0f)
 
-3. After commiting check the status using command ``` $ git status ```
+2. After commiting check the status using command ``` $ git status ```
    The output window should be as below
-   ![Status_Commit](https://github.com/GitWorkshopWWCDSPracticeAccount/Git_Workshop/assets/128200371/aeb4000c-339b-451a-b2dc-52ce5edb6bcf)
 
+   ![Status_Commit](https://github.com/GitWorkshopWWCDSPracticeAccount/Git_Workshop/assets/128200371/2354f263-c8be-429c-8323-9ef2270a531c)
 
-4. Perform push operation to the original commit on the repository using the command ``` git push```
+  
+
+3. Perform push operation to the original commit on the repository using the command ``` git push```
    or using the GitHub Desktop App 
    
 
@@ -115,7 +117,10 @@ Squad 2:
 5. Now see the files changed and modification in the diff window
 6. Assign to a member in Squad 3 (Squad Lead)
 
- ![diff-settings-menu_Github_Website](https://github.com/GitWorkshopWWCDSPracticeAccount/Git_Workshop/assets/128200371/70131299-a25b-4424-8e62-e90a616c5209)
+
+![diff-settings-menu_Github_Website](https://github.com/GitWorkshopWWCDSPracticeAccount/Git_Workshop/assets/128200371/959d6e3c-2645-4cfc-88fd-8e150ac9f0dd)
+
+
 
 Squad 3:
 
@@ -137,8 +142,11 @@ Squad 4:
 Squad 1 & Squad 2:
 
 1. Create a new folder with a complete File Tree structure with your Team name as folder name example: "Squad1_Bingo"
-   ![Tree Structure](https://github.com/GitWorkshopWWCDSPracticeAccount/Git_Workshop/assets/128200371/71312a59-d531-48dc-9001-b838d8f81ce8)
-2. Commit and push the changes into the "Test_Branch_for_Squads"
+   
+
+   ![Tree Structure](https://github.com/GitWorkshopWWCDSPracticeAccount/Git_Workshop/assets/128200371/bbb18ef9-dbf8-422b-82bb-93a6629a0af0)
+
+3. Commit and push the changes into the "Test_Branch_for_Squads"
 
 Squad 3 & 4:
 
